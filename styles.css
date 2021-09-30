@@ -1,0 +1,10 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color:   #d0e9c5;
+    position: relative;
+    background: #130e57;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif;
+  }
